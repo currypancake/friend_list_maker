@@ -15,6 +15,8 @@ pip install requests
 
 ### 쿠키 설정
 [자신의 쿠키값 가져오기](https://github.com/currypancake/SaveImage)
+
+
 여기 링크 들어가서 밑으로 내리다보면 자신의 쿠키값을 찾는 법 나오는데 따라서 쿠키 찾고
 값 복사하고 **login_cookie.txt** 파일에 붙여넣습니다.
 
